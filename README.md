@@ -50,8 +50,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/y3sidDeve/y3sidDeve/output/snake.svg" alt="Snake animation" />
 
 ###
