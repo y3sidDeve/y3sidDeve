@@ -48,15 +48,11 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/y3sidDeve/y3sidDeve/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
-<div align="right">
+<div align="left">
   <a href="https://open.spotify.com/user/31u3jrjlzosdxcw2h7jtzhmxgt3m">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31u3jrjlzosdxcw2h7jtzhmxgt3m&count=5" alt="Spotify recently played"  />
   </a>
