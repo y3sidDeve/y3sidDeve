@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋! My name is Yesid and I'm a Web Developer Full Stack, from Colombia 💛🩵❤️.</h1>
 
+<p align="center">
+    Apasionado, siendo un aprendiz continuo y dando todo de mi cada vez. 
+  </p>
 ###
 
 <div align="center">
