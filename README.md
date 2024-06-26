@@ -2,7 +2,8 @@
 
 <p align="center">
     Apasionado, siendo un aprendiz continuo y dando todo de mi cada vez. 
-  </p>
+</p>
+
 ###
 
 <div align="center">
