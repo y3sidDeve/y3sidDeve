@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yesid 🐍.</h1>
 <h3 align="center">A apassionate Web Developer Full Stack, from Colombia!.</h3>
 
+
+- 🔭 I’m currently working on **Frelance projects**
 ###
 
 <div align="center">
