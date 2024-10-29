@@ -10,7 +10,7 @@ Hi there! I'm a full-stack web developer from Colombia with 3 years of experienc
 * ✉️  You can contact me at [ybernal317@gmail.com](mailto:ybernal317@gmail.com)
 * 🚀  I'm currently working on [Redelab Project. 🦄.](http://http://3.136.157.89/)
 * 🧠  I'm learning AWS, Cloud Computing and new Tecnologies como IA en entornos empresariales.
-* 🤝  I'm open to collaborating on proyectos interesantes y SaaS.
+* 🤝  interesting projects and SaaS.
 
 <a href="https://www.github.com/y3sidDeve" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/y3sidDeve?logo=github&style=for-the-badge&color=10b981&labelColor=22272e" /></a>
