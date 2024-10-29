@@ -40,12 +40,3 @@ src="https://img.shields.io/github/followers/y3sidDeve?logo=github&style=for-the
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/y3sidDeve/AuroraSoftwareGRAEE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=y3sidDeve&repo=AuroraSoftwareGRAEE&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/y3sidDeve/FaztExps" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=y3sidDeve&repo=FaztExps&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&locale=en" /></a></div>
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/y3sidDeve/count.svg?"  />
-</div>
-
-###
