@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yesid 🐍.</h1>
 <h3 align="center">A apassionate Web Developer Full Stack, from Colombia!.</h3>
 
-<p align="center">
-    Apasionado, siendo un aprendiz continuo y dando todo de mi cada vez.
-</p>
-
 ###
 
 <div align="center">
