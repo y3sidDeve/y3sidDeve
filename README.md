@@ -8,7 +8,7 @@ Hi there! I'm a full-stack web developer from Colombia with 3 years of experienc
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [ybernal317@gmail.com](mailto:ybernal317@gmail.com)
-* 🚀  I'm currently working on [Redelab Project. 🦄.](https://posbar-y1hz.onrender.com/)
+* 🚀  I'm currently working on [BarManagerPro, personal project. 🦄.](https://posbar-y1hz.onrender.com/)
 * 🧠  I'm learning AWS, Cloud Computing and new Tecnologies como IA en entornos empresariales.
 * 🤝  interesting projects and SaaS.
 
