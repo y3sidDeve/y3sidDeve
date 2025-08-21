@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Yesid Bernal 🐍
 =======================================================================================================================================
 
-## ¡Desarrollador Web Full Stack apasionado, desde Colombia!.
+## ¡Desarrollador Web Full Stack, desde Colombia!.
 
 ¡Hola! Soy Yesid Bernal, desarrollador web full-stack con más de 3 años de experiencia. He crecido profesionalmente trabajando tanto en frontend como en backend, creando interfaces atractivas y arquitecturas robustas que garantizan aplicaciones eficientes y escalables.
 
