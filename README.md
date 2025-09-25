@@ -5,16 +5,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ¡Hola! Soy Yesid Bernal, desarrollador web full-stack con más de 3 años de experiencia. He crecido profesionalmente trabajando tanto en frontend como en backend, creando interfaces atractivas y arquitecturas robustas que garantizan aplicaciones eficientes y escalables.
 
-Trabajo con tecnologías como Django, React, Next.js, Express.js y AWS. En el frontend empleo librerías y frameworks como NextUI, shadcn/ui, Chart.js, Tailwind CSS y Bootstrap. Me encanta explorar nuevas herramientas para aportar soluciones innovadoras en cada proyecto.
+He trabajado con tecnologías como **Django, React, Next.js, Express.js y AWS**. En el frontend empleo librerías y frameworks como **NextUI, shadcn/ui, Chart.js, Tailwind CSS y Bootstrap**. Me interesa especialmente la **arquitectura en la nube, microfrontends, soluciones serverless y aplicaciones SaaS**.
 
 **Datos rápidos**
 
-* 🌍  Basado en Colombia
-* ✉️  [ybernal317@gmail.com](mailto:ybernal317@gmail.com)
-* 🤖 Visita mi sitio: [squaredev.tech](https://squaredev.tech)
-* 🚀  Trabajando en [BarManagerPro 🦄](https://posbar-y1hz.onrender.com/)
-* 🧠  Aprendiendo sobre IA, MCP, Docker, Arquitecturas, Microservicios y mucho más.
-* 🤝  Abierto a proyectos interesantes, me interesan los proyectos SaaS.
+* 🌍  Basado en Colombia  
+* ✉️  [ybernal317@gmail.com](mailto:ybernal317@gmail.com)  
+* 🤖 Visita mi sitio: [squaredev.tech](https://squaredev.tech)  
+* 🚀  Trabajando en [BarManagerPro 🦄](https://posbar-y1hz.onrender.com/)  
+* 🧠  Aprendiendo sobre IA, MCP, Docker, Arquitecturas, Microservicios y mucho más.  
+* 🤝  Abierto a proyectos interesantes, me interesan los proyectos SaaS.  
 
 <a href="https://github.com/y3sidDeve" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/y3sidDeve?logo=github&style=for-the-badge&color=10b981&labelColor=22272e" alt="GitHub Followers" />
@@ -24,14 +24,39 @@ Trabajo con tecnologías como Django, React, Next.js, Express.js y AWS. En el fr
 
 ### 🛠️ Habilidades
 
+#### 🌐 Frontend
+- React, Next.js  
+- Native Federation para microfrontends (Angular/React/Next.js)  
+- Librerías de UI: NextUI, shadcn/ui, Bootstrap, Tailwind CSS  
+- Visualización: Chart.js, Recharts  
+- Integración con **Django Rest Framework** para APIs  
+
+#### ⚙️ Backend
+- Python (Django, Django Rest Framework, FastAPI)  
+- Express.js  
+- Supabase  
+- **En aprendizaje:** Java y Spring Boot  
+- Construcción de APIs asincrónicas y serverless  
+- Validaciones con Pydantic y buenas prácticas en arquitectura limpia  
+
+#### ☁️ Cloud & DevOps (AWS)
+- **Cómputo:** EC2, Elastic Beanstalk, Lambda  
+- **Almacenamiento:** S3, EFS  
+- **Bases de datos:** RDS (PostgreSQL), DynamoDB  
+- **Mensajería & Serverless:** SQS, EventBridge  
+- **Infraestructura como código (IaC):** CloudFormation, Terraform  
+- **CI/CD:** GitHub Actions, despliegues automáticos multi-entorno  
+- **Monitoreo y optimización de costos**  
+- Arquitecturas escalables, alta disponibilidad y reducción de costos operativos  
+
 <p align="left">
-  <!-- Git (ya lo tenías) -->
+  <!-- Git -->
   <picture style="margin:4px;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </picture>
-  <!-- JavaScript (ya lo tenías) -->
+  <!-- JavaScript -->
   <picture style="margin:4px;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" />
@@ -87,6 +112,8 @@ Trabajo con tecnologías como Django, React, Next.js, Express.js y AWS. En el fr
   </picture>
 </p>
 
+---
+
 ### 🌐 Redes sociales
 
 <p align="left">
@@ -105,3 +132,4 @@ Trabajo con tecnologías como Django, React, Next.js, Express.js y AWS. En el fr
     </picture>
   </a>
 </p>
+
