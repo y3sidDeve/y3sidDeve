@@ -44,8 +44,8 @@ He trabajado con tecnologías como **Django, React, Next.js, Express.js y AWS**.
 - **Almacenamiento:** S3, EFS  
 - **Bases de datos:** RDS (PostgreSQL), DynamoDB  
 - **Mensajería & Serverless:** SQS, EventBridge  
-- **Infraestructura como código (IaC):** CloudFormation, Terraform  
-- **CI/CD:** GitHub Actions, despliegues automáticos multi-entorno  
+- **Infraestructura como código (IaC):** CloudFormation
+- **CI/CD:** GitHub Actions, CodePipeline, despliegues automáticos multi-entorno  
 - **Monitoreo y optimización de costos**  
 - Arquitecturas escalables, alta disponibilidad y reducción de costos operativos  
 
