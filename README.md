@@ -13,7 +13,7 @@ Trabajo con tecnologías como Django, React, Next.js, Express.js y AWS. En el fr
 * ✉️  [ybernal317@gmail.com](mailto:ybernal317@gmail.com)
 * 🤖 Visita mi sitio: [squaredev.tech](https://squaredev.tech)
 * 🚀  Trabajando en [BarManagerPro 🦄](https://posbar-y1hz.onrender.com/)
-* 🧠  Aprendiendo sobre IA, MCP, Docker, Arquitecturas y mucho mas 
+* 🧠  Aprendiendo sobre IA, MCP, Docker, Arquitecturas, Microservicios y mucho más.
 * 🤝  Abierto a proyectos interesantes, me interesan los proyectos SaaS.
 
 <a href="https://github.com/y3sidDeve" target="_blank" rel="noreferrer">
