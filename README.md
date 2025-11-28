@@ -11,7 +11,7 @@ He trabajado con tecnologías como **Django, React, Next.js, Express.js y AWS**.
 
 * 🌍  Basado en Colombia  
 * ✉️  [ybernal317@gmail.com](mailto:ybernal317@gmail.com)  
-* 🤖 Visita mi sitio: [yesidevsquaredev.tech](https://yesidev.squaredev.tech)  
+* 🤖 Visita mi sitio: [yesidev.squaredev.tech](https://yesidev.squaredev.tech)  
 * 🧠  Aprendiendo sobre IA, MCP, Docker, Arquitecturas, Microservicios y mucho más.  
 * 🤝  Abierto a proyectos interesantes, me interesan los proyectos SaaS.  
 
