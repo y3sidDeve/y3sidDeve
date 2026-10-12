@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yesid-bernal-85778a172/"><img src="https://img.shields.io/badge/LinkedIn-Yesid%20Bernal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=22272e" alt="LinkedIn" /></a>
   <a href="mailto:ybernal317@gmail.com"><img src="https://img.shields.io/badge/Email-ybernal317%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=22272e" alt="Email" /></a>
-  <a href="https://github.com/y3sidDeve"><img src="https://img.shields.io/github/followers/y3sidDeve?logo=github&style=for-the-badge&color=10b981&labelColor=22272e" alt="GitHub Followers" /></a>
 </p>
 
 ---
@@ -106,20 +105,14 @@ Diseño la infraestructura como parte del sistema, no como un paso posterior.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🧭 Cómo trabajo
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=y3sidDeve&show_icons=true&hide_border=true&theme=github_dark&title_color=10b981&icon_color=10b981&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y3sidDeve&layout=compact&hide_border=true&theme=github_dark&title_color=10b981&locale=es" alt="Lenguajes más usados" />
-</p>
+- **Arquitectura primero:** defino cómo se despliega, escala y protege el sistema desde el diseño, no al final.
+- **Seguridad por defecto:** autenticación, autorización y permisos mínimos en cada capa.
+- **Automatización:** infraestructura como código y despliegues repetibles en cada entorno.
+- **Costos bajo control:** elijo entre serverless y contenedores según la carga real del sistema.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=y3sidDeve&hide_border=true&theme=github-dark-blue&ring=10b981&fire=10b981&currStreakLabel=10b981&locale=es" alt="Racha de contribuciones" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/10b981/y3sidDeve" alt="Gráfico de contribuciones" width="100%" />
-</p>
+> 🔒 La mayor parte de mi trabajo se desarrolla en repositorios privados para clientes y productos propios. Con gusto converso sobre los proyectos y las arquitecturas detrás de ellos.
 
 ---
 
@@ -130,10 +123,6 @@ Siempre estoy abierto a nuevas oportunidades, colaboraciones y conversaciones so
 <p align="center">
   <a href="https://www.linkedin.com/in/yesid-bernal-85778a172/"><img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ybernal317@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=y3sidDeve&style=for-the-badge&color=10b981&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
 </p>
 
 <!-- Footer -->
