@@ -1,134 +1,139 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Mi nombre es Yesid Bernal 🐍
-=======================================================================================================================================
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:0ea5e9&height=200&section=header&text=Yesid%20Bernal&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20SaaS&descAlignY=58&descSize=18" alt="Yesid Bernal" width="100%" />
+</p>
 
-## ¡Desarrollador Web Full Stack, desde Colombia!.
+<p align="center">
+  <a href="https://yesidev.squaredev.tech">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack+%F0%9F%87%A8%F0%9F%87%B4;Django+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+AWS;Arquitectura+Cloud+%26+Serverless;Construyendo+productos+SaaS+escalables" alt="Typing SVG" />
+  </a>
+</p>
 
-¡Hola! Soy Yesid Bernal, desarrollador web full-stack con más de 3 años de experiencia. He crecido profesionalmente trabajando tanto en frontend como en backend, creando interfaces atractivas y arquitecturas robustas que garantizan aplicaciones eficientes y escalables.
-
-He trabajado con tecnologías como **Django, React, Next.js, Express.js y AWS**. En el frontend empleo librerías y frameworks como **NextUI, shadcn/ui, Chart.js, Tailwind CSS y Bootstrap**. Me interesa especialmente la **arquitectura en la nube, microfrontends, soluciones serverless y aplicaciones SaaS**.
-
-**Datos rápidos**
-
-* 🌍  Basado en Colombia  
-* ✉️  [ybernal317@gmail.com](mailto:ybernal317@gmail.com)  
-* 🤖 Visita mi sitio: [yesidev.squaredev.tech](https://yesidev.squaredev.tech)  
-* 🧠  Aprendiendo sobre IA, MCP, Docker, Arquitecturas, Microservicios y mucho más.  
-* 🤝  Abierto a proyectos interesantes, me interesan los proyectos SaaS.  
-
-<a href="https://github.com/y3sidDeve" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/y3sidDeve?logo=github&style=for-the-badge&color=10b981&labelColor=22272e" alt="GitHub Followers" />
-</a>
-
----
-
-### 🛠️ Habilidades
-
-#### 🌐 Frontend
-- React, Next.js  
-- Native Federation para microfrontends (Angular/React/Next.js)  
-- Librerías de UI: NextUI, shadcn/ui, Bootstrap, Tailwind CSS  
-- Visualización: Chart.js, Recharts  
-- Integración con **Django Rest Framework** para APIs  
-
-#### ⚙️ Backend
-- Python (Django, Django Rest Framework, FastAPI)  
-- Express.js  
-- Supabase  
-- **En aprendizaje:** Java y Spring Boot  
-- Construcción de APIs asincrónicas y serverless  
-- Validaciones con Pydantic y buenas prácticas en arquitectura limpia  
-
-#### ☁️ Cloud & DevOps (AWS)
-- **Cómputo:** EC2, Elastic Beanstalk, Lambda  
-- **Almacenamiento:** S3, EFS  
-- **Bases de datos:** RDS (PostgreSQL), DynamoDB  
-- **Mensajería & Serverless:** SQS, EventBridge  
-- **Infraestructura como código (IaC):** CloudFormation
-- **CI/CD:** GitHub Actions, CodePipeline, despliegues automáticos multi-entorno  
-- **Monitoreo y optimización de costos**  
-- Arquitecturas escalables, alta disponibilidad y reducción de costos operativos  
-
-<p align="left">
-  <!-- Git -->
-  <picture style="margin:4px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </picture>
-  <!-- JavaScript -->
-  <picture style="margin:4px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </picture>
-  <!-- Next.js -->
-  <picture style="margin:4px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
-  </picture>
-  <!-- React -->
-  <picture style="margin:4px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </picture>
-  <!-- TailwindCSS -->
-  <picture style="margin:4px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </picture>
-  <!-- AWS -->
-  <picture style="margin:4px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
-  </picture>
-  <!-- Python -->
-  <picture style="margin:4px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </picture>
-  <!-- Django -->
-  <picture style="margin:4px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
-  </picture>
-  <!-- FastAPI -->
-  <picture style="margin:4px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
-  </picture>
-  <!-- Supabase -->
-  <picture style="margin:4px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
-  </picture>
+<p align="center">
+  <a href="https://yesidev.squaredev.tech"><img src="https://img.shields.io/badge/Portafolio-yesidev.squaredev.tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=22272e" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/yesid-bernal-85778a172/"><img src="https://img.shields.io/badge/LinkedIn-Yesid%20Bernal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=22272e" alt="LinkedIn" /></a>
+  <a href="mailto:ybernal317@gmail.com"><img src="https://img.shields.io/badge/Email-ybernal317%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=22272e" alt="Email" /></a>
+  <a href="https://github.com/y3sidDeve"><img src="https://img.shields.io/github/followers/y3sidDeve?logo=github&style=for-the-badge&color=10b981&labelColor=22272e" alt="GitHub Followers" /></a>
 </p>
 
 ---
 
-### 🌐 Redes sociales
+## 👨‍💻 Sobre mí
 
-<p align="left">
-  <a href="https://github.com/y3sidDeve" target="_blank" rel="noreferrer" style="margin-right:8px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/yesid-bernal-85778a172/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
+Soy **Yesid Bernal**, desarrollador web **Full Stack** con más de **3 años de experiencia** construyendo aplicaciones de punta a punta: desde interfaces modernas y accesibles hasta arquitecturas backend robustas, escalables y desplegadas en la nube.
+
+Me especializo en el ecosistema **Python (Django / FastAPI)** y **JavaScript (React / Next.js)**, con un fuerte enfoque en **AWS**, **arquitecturas serverless**, **microfrontends** y **productos SaaS**.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**🎯 En qué me enfoco**
+
+- Aplicaciones SaaS escalables y multi-tenant
+- Arquitectura en la nube y serverless (AWS)
+- Microfrontends con Native Federation
+- APIs limpias, asíncronas y bien documentadas
+
+</td>
+    <td valign="top" width="50%">
+
+**⚡ Datos rápidos**
+
+- 🌍 Basado en **Colombia**
+- 🧠 Aprendiendo: **IA, MCP, Docker, Microservicios, Java & Spring Boot**
+- 🤝 Abierto a colaborar en **proyectos SaaS** interesantes
+- 💬 Hablemos: [ybernal317@gmail.com](mailto:ybernal317@gmail.com)
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Stack tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,nodejs,express,react,nextjs,angular,tailwind,bootstrap&perline=12" alt="Lenguajes y frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,postgres,dynamodb,supabase,docker,githubactions,git,github,linux,vscode,postman,java&perline=12" alt="Cloud y herramientas" />
 </p>
 
+<table>
+  <tr>
+    <th align="left">🌐 Frontend</th>
+    <th align="left">⚙️ Backend</th>
+    <th align="left">☁️ Cloud & DevOps (AWS)</th>
+  </tr>
+  <tr>
+    <td valign="top">
+
+- React · Next.js
+- Microfrontends con **Native Federation** (Angular / React / Next.js)
+- UI: NextUI · shadcn/ui · Tailwind CSS · Bootstrap
+- Visualización: Chart.js · Recharts
+- Consumo de APIs con **Django Rest Framework**
+
+</td>
+    <td valign="top">
+
+- Python: Django · DRF · FastAPI
+- Node.js: Express.js
+- Supabase
+- APIs asíncronas y serverless
+- Validación con **Pydantic**
+- Arquitectura limpia y buenas prácticas
+- *En aprendizaje:* Java · Spring Boot
+
+</td>
+    <td valign="top">
+
+- **Cómputo:** EC2 · Elastic Beanstalk · Lambda
+- **Almacenamiento:** S3 · EFS
+- **Bases de datos:** RDS (PostgreSQL) · DynamoDB
+- **Mensajería:** SQS · EventBridge
+- **IaC:** CloudFormation
+- **CI/CD:** GitHub Actions · CodePipeline
+- Monitoreo, alta disponibilidad y optimización de costos
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=y3sidDeve&show_icons=true&hide_border=true&theme=github_dark&title_color=10b981&icon_color=10b981&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y3sidDeve&layout=compact&hide_border=true&theme=github_dark&title_color=10b981&locale=es" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=y3sidDeve&hide_border=true&theme=github-dark-blue&ring=10b981&fire=10b981&currStreakLabel=10b981&locale=es" alt="Racha de contribuciones" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=y3sidDeve&hide_border=true&bg_color=0d1117&color=c9d1d9&line=10b981&point=0ea5e9&area=true&area_color=10b981" alt="Gráfico de actividad" width="100%" />
+</p>
+
+---
+
+## 🤝 Conectemos
+
+Siempre estoy abierto a nuevas oportunidades, colaboraciones y conversaciones sobre tecnología, cloud y productos SaaS.
+
+<p align="center">
+  <a href="https://yesidev.squaredev.tech"><img src="https://img.shields.io/badge/Visita%20mi%20portafolio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/yesid-bernal-85778a172/"><img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ybernal317@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=y3sidDeve&style=for-the-badge&color=10b981&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:10b981,100:0f172a&height=120&section=footer" alt="footer" width="100%" />
+</p>
