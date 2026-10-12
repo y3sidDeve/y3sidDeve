@@ -1,16 +1,13 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:0ea5e9&height=200&section=header&text=Yesid%20Bernal&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%E2%80%A2%20SaaS&descAlignY=58&descSize=18" alt="Yesid Bernal" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:0ea5e9&height=200&section=header&text=Yesid%20Bernal&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Cloud%20Engineer&descAlignY=58&descSize=18" alt="Yesid Bernal" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://yesidev.squaredev.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack+%F0%9F%87%A8%F0%9F%87%B4;Django+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+AWS;Arquitectura+Cloud+y+Serverless;Construyendo+productos+SaaS+escalables" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=640&lines=Full+Stack+%2B+Cloud+Engineer+%F0%9F%87%A8%F0%9F%87%B4;Del+c%C3%B3digo+a+la+infraestructura%2C+sin+fricci%C3%B3n;Serverless+%E2%80%A2+Contenedores+%E2%80%A2+Microservicios;Autenticaci%C3%B3n+y+autorizaci%C3%B3n+seguras" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://yesidev.squaredev.tech"><img src="https://img.shields.io/badge/Portafolio-yesidev.squaredev.tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=22272e" alt="Portafolio" /></a>
   <a href="https://www.linkedin.com/in/yesid-bernal-85778a172/"><img src="https://img.shields.io/badge/LinkedIn-Yesid%20Bernal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=22272e" alt="LinkedIn" /></a>
   <a href="mailto:ybernal317@gmail.com"><img src="https://img.shields.io/badge/Email-ybernal317%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=22272e" alt="Email" /></a>
   <a href="https://github.com/y3sidDeve"><img src="https://img.shields.io/github/followers/y3sidDeve?logo=github&style=for-the-badge&color=10b981&labelColor=22272e" alt="GitHub Followers" /></a>
@@ -20,9 +17,9 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Yesid Bernal**, desarrollador web **Full Stack** con más de **3 años de experiencia** construyendo aplicaciones de punta a punta: desde interfaces modernas y accesibles hasta arquitecturas backend robustas, escalables y desplegadas en la nube.
+Soy **Yesid Bernal**, ingeniero de software **Full Stack con enfoque en la nube**, con más de **3 años de experiencia** construyendo sistemas de punta a punta.
 
-Me especializo en el ecosistema **Python (Django / FastAPI)** y **JavaScript (React / Next.js)**, con un fuerte enfoque en **AWS**, **arquitecturas serverless**, **microfrontends** y **productos SaaS**.
+Mi mayor fortaleza es **unir el desarrollo de software con la infraestructura de forma natural**: no diseño la aplicación y la nube por separado, sino como un solo sistema. Eso me permite construir **arquitecturas serverless distribuidas**, **servicios en contenedores** y **microservicios** que nacen pensados para escalar, ser seguros y mantener los costos bajo control.
 
 <table>
   <tr>
@@ -30,10 +27,11 @@ Me especializo en el ecosistema **Python (Django / FastAPI)** y **JavaScript (Re
 
 **🎯 En qué me enfoco**
 
-- Aplicaciones SaaS escalables y multi-tenant
-- Arquitectura en la nube y serverless (AWS)
-- Microfrontends con Native Federation
-- APIs limpias, asíncronas y bien documentadas
+- Sistemas **cloud-native** en AWS, del código al despliegue
+- Arquitecturas **serverless** y orientadas a eventos
+- **Microservicios** y cargas en **contenedores**
+- **Autenticación y autorización** robustas
+- Productos **SaaS** escalables
 
 </td>
     <td valign="top" width="50%">
@@ -41,8 +39,8 @@ Me especializo en el ecosistema **Python (Django / FastAPI)** y **JavaScript (Re
 **⚡ Datos rápidos**
 
 - 🌍 Basado en **Colombia**
-- 🧠 Aprendiendo: **IA, MCP, Docker, Microservicios, Java & Spring Boot**
-- 🤝 Abierto a colaborar en **proyectos SaaS** interesantes
+- 🧠 Explorando: **IA aplicada y MCP**
+- 🤝 Abierto a colaborar en **proyectos SaaS** y cloud
 - 💬 Hablemos: [ybernal317@gmail.com](mailto:ybernal317@gmail.com)
 
 </td>
@@ -51,50 +49,56 @@ Me especializo en el ecosistema **Python (Django / FastAPI)** y **JavaScript (Re
 
 ---
 
-## 🛠️ Stack tecnológico
+## ☁️ Cloud: mi fuerte
+
+Diseño la infraestructura como parte del sistema, no como un paso posterior.
+
+| Área | Lo que construyo |
+| :-- | :-- |
+| **Serverless distribuido** | Sistemas orientados a eventos con **Lambda**, **SQS** y **EventBridge**, desacoplados y resilientes |
+| **Contenedores y microservicios** | Servicios independientes empaquetados con **Docker**, listos para escalar por separado |
+| **Datos** | **RDS (PostgreSQL)** para modelos relacionales y **DynamoDB** para acceso de alto rendimiento |
+| **Seguridad e identidad** | Autenticación y autorización: flujos de tokens (**OAuth 2.0 / JWT**), control de acceso por roles y permisos mínimos en la nube |
+| **Infraestructura como código** | Entornos reproducibles con **CloudFormation** |
+| **CI/CD** | Despliegues automáticos multi-entorno con **GitHub Actions** |
+| **Operación** | Monitoreo, alta disponibilidad y optimización de costos |
+
+---
+
+## 🛠️ Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,nodejs,express,react,nextjs,angular,tailwind,bootstrap&perline=12" alt="Lenguajes y frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,postgres,dynamodb,supabase,docker,githubactions,git,github,linux,vscode,postman,java&perline=12" alt="Cloud y herramientas" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,django,spring,nextjs,angular,tailwind,aws,docker,postgres,githubactions&perline=12" alt="Stack principal" />
 </p>
 
 <table>
   <tr>
-    <th align="left">🌐 Frontend</th>
+    <th align="left">🧩 Lenguajes</th>
     <th align="left">⚙️ Backend</th>
-    <th align="left">☁️ Cloud & DevOps (AWS)</th>
+    <th align="left">🎨 Frontend / UI</th>
   </tr>
   <tr>
     <td valign="top">
 
-- React · Next.js
-- Microfrontends con **Native Federation** (Angular / React / Next.js)
-- UI: NextUI · shadcn/ui · Tailwind CSS · Bootstrap
-- Visualización: Chart.js · Recharts
-- Consumo de APIs con **Django Rest Framework**
+- **Python**: servicios backend y funciones serverless
+- **Java**: servicios empresariales y microservicios
+- **TypeScript**: interfaces tipadas y mantenibles
 
 </td>
     <td valign="top">
 
-- Python: Django · DRF · FastAPI
-- Node.js: Express.js
-- Supabase
-- APIs asíncronas y serverless
-- Validación con **Pydantic**
-- Arquitectura limpia y buenas prácticas
-- *En aprendizaje:* Java · Spring Boot
+- **Django** · Django Rest Framework
+- **Spring Boot**
+- APIs REST seguras y bien estructuradas
+- Arquitectura limpia
 
 </td>
     <td valign="top">
 
-- **Cómputo:** EC2 · Elastic Beanstalk · Lambda
-- **Almacenamiento:** S3 · EFS
-- **Bases de datos:** RDS (PostgreSQL) · DynamoDB
-- **Mensajería:** SQS · EventBridge
-- **IaC:** CloudFormation
-- **CI/CD:** GitHub Actions · CodePipeline
-- Monitoreo, alta disponibilidad y optimización de costos
+- **Next.js**
+- **Angular**
+- **shadcn/ui** · Tailwind CSS
+- Microfrontends con Native Federation
 
 </td>
   </tr>
@@ -121,10 +125,9 @@ Me especializo en el ecosistema **Python (Django / FastAPI)** y **JavaScript (Re
 
 ## 🤝 Conectemos
 
-Siempre estoy abierto a nuevas oportunidades, colaboraciones y conversaciones sobre tecnología, cloud y productos SaaS.
+Siempre estoy abierto a nuevas oportunidades, colaboraciones y conversaciones sobre arquitectura cloud, sistemas distribuidos y productos SaaS.
 
 <p align="center">
-  <a href="https://yesidev.squaredev.tech"><img src="https://img.shields.io/badge/Visita%20mi%20portafolio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
   <a href="https://www.linkedin.com/in/yesid-bernal-85778a172/"><img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ybernal317@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
