@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:0ea5e9&height=200&section=header&text=Yesid%20Bernal&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20SaaS&descAlignY=58&descSize=18" alt="Yesid Bernal" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:0ea5e9&height=200&section=header&text=Yesid%20Bernal&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%E2%80%A2%20SaaS&descAlignY=58&descSize=18" alt="Yesid Bernal" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://yesidev.squaredev.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack+%F0%9F%87%A8%F0%9F%87%B4;Django+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+AWS;Arquitectura+Cloud+%26+Serverless;Construyendo+productos+SaaS+escalables" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack+%F0%9F%87%A8%F0%9F%87%B4;Django+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+AWS;Arquitectura+Cloud+y+Serverless;Construyendo+productos+SaaS+escalables" alt="Typing SVG" />
   </a>
 </p>
 
@@ -114,7 +114,7 @@ Me especializo en el ecosistema **Python (Django / FastAPI)** y **JavaScript (Re
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=y3sidDeve&hide_border=true&bg_color=0d1117&color=c9d1d9&line=10b981&point=0ea5e9&area=true&area_color=10b981" alt="Gráfico de actividad" width="100%" />
+  <img src="https://ghchart.rshah.org/10b981/y3sidDeve" alt="Gráfico de contribuciones" width="100%" />
 </p>
 
 ---
